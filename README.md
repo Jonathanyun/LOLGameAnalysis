@@ -5,5 +5,5 @@ Determining if we are able to predict a winner by only using the following infor
 
 
 ### Data Source
-The following data was found on Kaggle at the following URL : https://www.kaggle.com/datasets/datasnaek/league-of-legends?select=games.csv .
+The following data was found on Kaggle at the following URL : https://www.kaggle.com/datasets/datasnaek/league-of-legends?select=games.csv.
 The data is a collection of 50,000 games from the EUW server.
